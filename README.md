@@ -13,4 +13,6 @@ an online video rental service to stay competitive.
 The data used in this analysis is the Rockbuster data [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip). 
 
 # Tools
-PostgreSQL Database was used for the analysis of this data set.
+PostgreSQL Database was used for the analysis of this data set.  
+Tableau was used to create a dashboard and story of this data set.  
+See story [Here](https://public.tableau.com/app/profile/jesus.barcenas/viz/RockBusterStealthcustomerdata/Story1)
